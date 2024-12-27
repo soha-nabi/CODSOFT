@@ -54,5 +54,6 @@ calculator.js - JavaScript for interactive functionality
 
 Contact Information
 Name: Soha
-Email: your-email@example.com
-GitHub Profile: GitHub
+Email: nabisoha58@gmail.com
+
+
